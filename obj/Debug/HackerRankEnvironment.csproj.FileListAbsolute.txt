@@ -1,0 +1,6 @@
+C:\Users\Rob\source\repos\HackerRankEnvironment\bin\Debug\HackerRankEnvironment.exe.config
+C:\Users\Rob\source\repos\HackerRankEnvironment\bin\Debug\HackerRankEnvironment.exe
+C:\Users\Rob\source\repos\HackerRankEnvironment\bin\Debug\HackerRankEnvironment.pdb
+C:\Users\Rob\source\repos\HackerRankEnvironment\obj\Debug\HackerRankEnvironment.csprojAssemblyReference.cache
+C:\Users\Rob\source\repos\HackerRankEnvironment\obj\Debug\HackerRankEnvironment.exe
+C:\Users\Rob\source\repos\HackerRankEnvironment\obj\Debug\HackerRankEnvironment.pdb
